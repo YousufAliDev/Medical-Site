@@ -1,2 +1,2 @@
-# medical-site
-Site Link: https://saruarhosenn.github.io/medical-site/
+# Medical-Site
+Site Link: https://yousufalidev.github.io/Medical-Site/
